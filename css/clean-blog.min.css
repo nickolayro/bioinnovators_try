@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
  */body{
      font-size:20px;
-     color:rgb(61, 59, 59);
+     color:black;
      font-family:Lora,'Times New Roman',serif
     }
     p{
@@ -72,20 +72,20 @@
     #mainNav{
         position:absolute;
         border-bottom:1px solid #e9ecef;
-        background-color: black;
+        background-color: white;
         font-family:'Open Sans','Helvetica Neue',
         Helvetica,Arial,sans-serif
     }
     #mainNav .navbar-brand{
         font-weight:800;
-        color: whitesmoke
+        color: black
     }
     #mainNav .navbar-toggler{
         font-size:12px;
         font-weight:800;
         padding:13px;
         text-transform:uppercase;
-        color:#343a40
+        color: black
     }
     #mainNav .navbar-nav>li.nav-item>a{
         font-size:12px;
