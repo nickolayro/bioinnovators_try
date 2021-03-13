@@ -1,0 +1,63 @@
+[33mcommit 0ae611d98953217ec4fa9d0d8f304b0981c5fd7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: nickolayro <arturo.rojas@utec.edu.pe>
+Date:   Fri Mar 12 23:36:30 2021 -0500
+
+    texto agregado a nosotros
+
+[33mcommit 33aa725c53a9d283f91daa785719304c39a0cfc2[m
+Author: nickolayro <arturo.rojas@utec.edu.pe>
+Date:   Fri Mar 12 22:42:16 2021 -0500
+
+    pro-bootstrap no es lo mismo que bootstrap :'v
+
+[33mcommit 7f353c3b02bee289d3391ef3bba4ae882aad6f52[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: nickolayro <arturo.rojas@utec.edu.pe>
+Date:   Thu Mar 11 01:01:40 2021 -0500
+
+    Se añadio forms, y se arreglaron algunos links del navbar
+
+[33mcommit 28caa492bcedb84aabc7420ed12a8d6fd5529ffe[m
+Author: nickolayro <arturo.rojas@utec.edu.pe>
+Date:   Thu Mar 11 00:21:34 2021 -0500
+
+    añadi 404, blog-home y faq recien
+
+[33mcommit 4b7f3d53754dddc47a9655dae959ab619da05e2b[m
+Author: = <=>
+Date:   Sat Mar 6 00:42:54 2021 -0500
+
+    Añadi instagram
+
+[33mcommit 4d49eee6bc72af3e388d9f956858edb4f001877b[m
+Author: = <=>
+Date:   Sat Mar 6 00:32:08 2021 -0500
+
+    Segundo commit. Pasado todo a español en el home
+
+[33mcommit 940df64b0d4c666c60a84aa0ed005a97b6e3ecda[m
+Author: = <=>
+Date:   Sat Mar 6 00:17:27 2021 -0500
+
+    Arreglado de identaciones y titulos de Bioinnovators
+
+[33mcommit c304f652c05baa03d0c2e2476720fb1f4267d96e[m
+Merge: 8e15f6e 769e02b
+Author: = <=>
+Date:   Fri Mar 5 23:27:40 2021 -0500
+
+    Merge branch 'master' of https://github.com/nickolayr21/bioinnovators_try
+    sfsadsai oli
+    
+    Please enter a commit message to explain why this merge is necessary,
+
+[33mcommit 8e15f6e4674986f8540ed84aa684fd3e4feb08c9[m
+Author: = <=>
+Date:   Fri Mar 5 23:23:22 2021 -0500
+
+    Primer commit, inmediato despues del clone
+
+[33mcommit 769e02b6d6a76b8ea826d4e38248f744c64e6cef[m
+Author: nickolayr21 <40774931+nickolayr21@users.noreply.github.com>
+Date:   Fri Mar 5 23:08:07 2021 -0500
+
+    Initial commit
